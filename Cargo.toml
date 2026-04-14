@@ -7,6 +7,6 @@
     alloy-primitives="0.7"
     clap            ={version="4.5", features=["derive"]}
     hex             ="0.4"
-    rand            ="0.8"
+    rand            ="0.9"
     rayon           ="1.10"
     thiserror       ="1"
